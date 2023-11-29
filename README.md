@@ -8,7 +8,6 @@
   
 
 <div  align="center" style="margin-bottom:100px">
-<img width=48% height="180em" margin="5px" src="https://github-readme-streak-stats.herokuapp.com?user=aliceperuniz&theme=radical&mode=weekly" />
 <img width="48%" height="180em" margin="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceperuniz&layout=compact&langs_count=7&theme=tokyonight"/>
   
  </div>
