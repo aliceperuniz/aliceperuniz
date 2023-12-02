@@ -3,8 +3,8 @@
 ## I'm Alice Peruniz 
 
 - I'm a <strong>full stack developer</strong> focused on web and mobile development
-- I’m currently graduating Computer Science in the UFPE
-- I’m looking to collaborate on the most variety of projects
+- I’m currently graduating Computer Science at UFPE
+- I’m willing to collaborate on the most variety of projects
   
 
 <div  align="center" style="margin-bottom:100px">
