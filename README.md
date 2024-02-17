@@ -2,10 +2,8 @@
 
 ## I'm Alice Peruniz 
 
-- I'm a <strong>full stack developer</strong> focused on web and mobile development
+- I'm a <strong>full stack developer</strong> 
 - I’m currently graduating Computer Science at UFPE
-- I’m willing to collaborate on the most variety of projects
-  
 
 <div  align="center" style="margin-bottom:100px">
 <img width="48%" height="180em" margin="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceperuniz&layout=compact&langs_count=7&theme=tokyonight"/>
