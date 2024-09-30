@@ -2,7 +2,7 @@
 
 ## I'm Alice Peruniz 
 
-- I'm a <strong>full stack developer</strong> 
+- I'm a <strong>software developer</strong> and a <strong>cybersecurity<strong> student researcher
 - I’m currently graduating Computer Science at UFPE
 
 <div  align="center" style="margin-bottom:100px">
